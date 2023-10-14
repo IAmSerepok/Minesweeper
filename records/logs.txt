@@ -1,0 +1,100 @@
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+easy - 19 seconds
+easy - 23 seconds
+easy - 15 seconds
+normal - 79 seconds
+normal - 74 seconds
+normal - 84 seconds
+easy - 16 seconds
+easy - 14 seconds
+easy - 16 seconds
+easy - 24 seconds
+easy - 14 seconds
+easy - 13 seconds
+easy - 19 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 1 seconds
+easy - 1 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 1 seconds
+easy - 1 seconds
+easy - 0 seconds
+easy - 0 seconds
+easy - 4 seconds
+easy - 4 seconds
+easy - 3 seconds
+easy - 2 seconds
+easy - 7 seconds
+easy - 4 seconds
+easy - 0 seconds
+easy - 1 seconds
+easy - 0 seconds
+easy - 20 seconds
+easy - 26 seconds
+normal - 80 seconds
+easy - 28 seconds
+easy - 10 seconds
+normal - 71 seconds
+easy - 19 seconds
+normal - 95 seconds
+hard - 458 seconds
+hard - 1 seconds
+hard - 0 seconds
+hard - 4 seconds
+hard - 342 seconds
+hard - 444 seconds
+hard - 325 seconds
+normal - 92 seconds
+normal - 88 seconds

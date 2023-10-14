@@ -1,0 +1,6 @@
+Easy
+0
+Normal
+2
+Hard
+3
